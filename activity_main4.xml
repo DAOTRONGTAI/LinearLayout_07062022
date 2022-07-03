@@ -151,6 +151,7 @@
             android:text="1"
             android:textSize="30dp"
             android:gravity="center"
+            android:background="#4BB53F"
             />
 
         <LinearLayout
@@ -168,6 +169,7 @@
                 android:text="3"
                 android:textSize="30dp"
                 android:gravity="center"
+                android:background="#03A9F4"
                 />
             <TextView
                 android:layout_width="match_parent"
@@ -176,6 +178,7 @@
                 android:text="4"
                 android:textSize="30dp"
                 android:gravity="center"
+                android:background="#AC1687"
                 />
 
         </LinearLayout>
@@ -195,6 +198,7 @@
             android:text="2"
             android:textSize="30dp"
             android:gravity="center"
+            android:background="#03A9F4"
             />
 
         <LinearLayout
@@ -218,6 +222,7 @@
                     android:text="5"
                     android:textSize="30dp"
                     android:gravity="center"
+                    android:background="#8F3F27"
                     />
                 <TextView
                     android:layout_width="match_parent"
@@ -226,6 +231,7 @@
                     android:text="6"
                     android:textSize="30dp"
                     android:gravity="center"
+                    android:background="#77848A"
                     />
             </LinearLayout>
 
@@ -243,6 +249,7 @@
                     android:text="7"
                     android:textSize="30dp"
                     android:gravity="center"
+                    android:background="#CDDC39"
                     />
 
                 <TextView
@@ -252,6 +259,7 @@
                     android:text="8"
                     android:textSize="30dp"
                     android:gravity="center"
+                    android:background="#8BC34A"
                     />
 
                 <TextView
@@ -261,6 +269,7 @@
                     android:text="9"
                     android:textSize="30dp"
                     android:gravity="center"
+                    android:background="#009688"
                     />
 
             </LinearLayout>
